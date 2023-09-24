@@ -69,6 +69,7 @@ compile-linux:
 	make compile-linux-extension name=stats3
 	make compile-linux-extension name=stmt
 	make compile-linux-extension name=text2
+	make compile-linux-extension name=uuid7
 	make compile-linux-extension name=uint
 	make compile-linux-extension name=unhex
 	make compile-linux-extension name=unionvtab
